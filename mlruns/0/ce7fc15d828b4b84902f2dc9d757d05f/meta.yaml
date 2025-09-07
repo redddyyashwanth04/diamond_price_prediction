@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yashw/learn_mlops/mlruns/0/ce7fc15d828b4b84902f2dc9d757d05f/artifacts
+end_time: 1757264090205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce7fc15d828b4b84902f2dc9d757d05f
+run_name: polite-gnat-363
+run_uuid: ce7fc15d828b4b84902f2dc9d757d05f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757264083272
+status: 4
+tags: []
+user_id: yashw

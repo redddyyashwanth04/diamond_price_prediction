@@ -1,0 +1,6 @@
+[2025-09-07 23:36:17,872] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-09-07 23:36:17,872] 97 werkzeug - INFO -  * Debugger PIN: 936-332-549
+[2025-09-07 23:36:20,888] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 23:36:20] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+[2025-09-07 23:36:21,967] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 23:36:21] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+[2025-09-07 23:36:42,947] 97 werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 23:36:42] "GET /predict HTTP/1.1" 200 -
+[2025-09-07 23:44:35,661] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\yashw\\learn_mlops\\src\\pipelines\\predict_pipeline.py', reloading
